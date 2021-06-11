@@ -1,7 +1,8 @@
 # Autonomous-Ships-Project
 
 1. 컨셉 디자인
-![KakaoTalk_20210607_165621349_02](https://user-images.githubusercontent.com/48241432/121631869-de76fd80-caba-11eb-9a50-92c6db668e4a.jpg)![KakaoTalk_20210607_165621349_01](https://user-images.githubusercontent.com/48241432/121632183-81c81280-cabb-11eb-9dc1-54577e54cc76.jpg)
+<img src="![KakaoTalk_20210607_165621349_02](https://user-images.githubusercontent.com/48241432/121631869-de76fd80-caba-11eb-9a50-92c6db668e4a.jpg)", width="1000">
+![KakaoTalk_20210607_165621349_01](https://user-images.githubusercontent.com/48241432/121632183-81c81280-cabb-11eb-9dc1-54577e54cc76.jpg)
 
 
 2. 선박 모델링
